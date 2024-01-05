@@ -3,15 +3,15 @@ import dotenv from 'dotenv';
 import { dirname, resolve } from 'path';
 
 // ### ROUTES ###
-import homeRouter from './src/routes/HomeRoutes';
-import userRouter from './src/routes/UserRoutes';
-import tokenRouter from './src/routes/TokenRoutes';
-import studentRouter from './src/routes/StudentRoutes';
-import photoRouter from './src/routes/PhotoRoutes';
+import homeRouter from './routes/HomeRoutes';
+import userRouter from './routes/UserRoutes';
+import tokenRouter from './routes/TokenRoutes';
+import studentRouter from './routes/StudentRoutes';
+import photoRouter from './routes/PhotoRoutes';
 
 
 
-import './src/database';
+import './database';
 
 dotenv.config();
 
@@ -31,7 +31,7 @@ class App {
 
     this.app.use(express.json())
 
-    this.app.use(express.static(resolve(__dirname, 'uploads')));
+    this.app.use(express.static(resolve(__dirname, '..', 'uploads', )));
   }
 
   routes() {
