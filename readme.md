@@ -15,7 +15,7 @@ facilidade de futuras manutenções ou melhorias a serem realizadas.
 
 ## 💻 Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,sequelize,express,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,sequelize,express,mysql)](https://skillicons.dev)
 
 ## Inicialização
 
