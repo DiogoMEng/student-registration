@@ -2,10 +2,7 @@
 
 ## 📝 Descrição
 
-O projeto busca simular um sistema de cadastro simples que permitir salvar os dados do usuário no banco MariaDB
-e realizar serviços e controles de rotas somente para contas cadastradas. Para criação da API foi utilizada a
-arquitetura MVC como base para se ter uma melhor organização e padronização do código, como também aumentar a
-facilidade de futuras manutenções ou melhorias a serem realizadas.
+O projeto simula um sistema de cadastro simples, onde posso salvar os dados dos alunos em um banco de dados MariaDB. A API criada utiliza a arquitetura MVC como base, o que proporciona uma melhor organização e padronização do código, além de facilitar futuras manutenções e melhorias. A API oferece funcionalidades específicas para gerenciar contas cadastradas, garantindo que somente usuários autenticados possam acessar e realizar operações em rotas protegidas. Isso inclui a criação, leitura, atualização e exclusão de registros de alunos. Com essa estrutura, busco garantir a segurança e a eficiência do sistema, facilitando o gerenciamento e a escalabilidade das funcionalidades.
 
 ## 🛠️ Funcionalidades
 
@@ -19,13 +16,13 @@ facilidade de futuras manutenções ou melhorias a serem realizadas.
 
 ## Inicialização
 
-` npm i ` - instalação de dependências do projeto.
+`npm i` - instalação de dependências do projeto.
 
-` npm run dev ` - executar o projeto.
+`npm run dev` - executar o projeto.
 
-` npm run build ` - para produção.
+`npm run build` - para produção.
 
-` npm start ` - executar projeto em produção.
+`npm start` - executar projeto em produção.
 
 ## Status do Projeto
 
