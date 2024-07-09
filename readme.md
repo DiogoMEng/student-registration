@@ -19,7 +19,7 @@ facilidade de futuras manutenções ou melhorias a serem realizadas.
 
 ## Inicialização
 
-``` npm i ``` - instalação de dependências do projeto.
+` npm i ` - instalação de dependências do projeto.
 
 ``` npm run dev ``` - executar o projeto.
 
