@@ -21,11 +21,11 @@ facilidade de futuras manutenções ou melhorias a serem realizadas.
 
 ` npm i ` - instalação de dependências do projeto.
 
-``` npm run dev ``` - executar o projeto.
+` npm run dev ` - executar o projeto.
 
-``` npm run build ``` - para produção.
+` npm run build ` - para produção.
 
-``` npm start ``` - executar projeto em produção.
+` npm start ` - executar projeto em produção.
 
 ## Status do Projeto
 
