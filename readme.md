@@ -26,4 +26,4 @@ O projeto simula um sistema de cadastro simples, onde posso salvar os dados dos 
 
 ## Status do Projeto
 
-<img alt="projectstatus" src="https://img.shields.io/badge/Status do Projeto-Aprimoramento-orange">
+<img alt="projectstatus" src="https://img.shields.io/badge/Status do Projeto-Finalizado-gre">
